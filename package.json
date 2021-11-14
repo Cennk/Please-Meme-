@@ -1,0 +1,24 @@
+{
+  "name": "am",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "am",
+  "license": "MIT",
+  "dependencies": {
+    "canvacord": "^5.2.0",
+    "discord.js": "^12.2.0",
+    "fs": "^0.0.1-security",
+    "gifencoder": "^2.0.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.11",
+    "opusscript": "0.0.7",
+    "snekfetch": "^4.0.4"
+  }
+}
